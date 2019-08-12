@@ -69,11 +69,11 @@
 <id>104</id>
 <cat>IPTV</cat>
 
-<name>IPTV Smarters</name>
+<name>LimitLess CCTV</name>
 
-<source>http://siriuswiz.xyz/apks/Iptv%20smarters.apk</source>
+<source>http://siriuswiz.xyz/apks/Limitless%20CCTV.apk</source>
 
-<imge>https://img.apksum.com/aa/com.nst.iptvsmarterstvbox/2.2.1/icon.png</imge>
+<imge>https://forum.iptvinsider.com/uploads/default/original/1X/5bdfd1d3c2b594110666d4336047d0726813990f.jpeg</imge>
 
 <desc>Latest Smarters with Multi</desc>
 
@@ -88,7 +88,7 @@
 <item>
 
 <id>105</id>
-<cat>Tools</cat>
+<cat>Players</cat>
 
 <name>MX Player Pro</name>
 
@@ -109,7 +109,7 @@
 <item>
 
 <id>106</id>
-<cat>Tools</cat>
+<cat>Players</cat>
 
 <name>MX Player Codec</name>
 
@@ -193,7 +193,7 @@
 <item>
 
 <id>110</id>
-<cat>Tools</cat>
+<cat>Players</cat>
 
 <name>TPlayer</name>
 
@@ -214,7 +214,7 @@
 <item>
 
 <id>111</id>
-<cat>Tools</cat>
+<cat>Players</cat>
 
 <name>Wuffy Player</name>
 
@@ -316,6 +316,67 @@
 
 </item>
 
+<item>
 
+<id>116</id>
+<cat>IPTV</cat>
+
+<name>LimitLess XCIPTV</name>
+
+<source>http://siriuswiz.xyz/apks/Limitless%20Xciptv.apk</source>
+
+<imge>https://forum.iptvinsider.com/uploads/default/original/1X/5bdfd1d3c2b594110666d4336047d0726813990f.jpeg</imge>
+
+<desc>LimitLess XCIPTV Hardcoded</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>TGltaXRMZXNzIFhDSVBUViBIYXJkY29kZWQ=</base64>
+
+</item>
+
+<item>
+
+<id>117</id>
+<cat>IPTV</cat>
+
+<name>TiviMate</name>
+
+<source>http://siriuswiz.xyz/apks/tivimate_1.5.1.apk</source>
+
+<imge>https://data.apksum.com/e4/ar.tvplayer.tv/1.3.6/icon.png</imge>
+
+<desc>Latest TiviMate</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>TGF0ZXN0IFRpdmlNYXRl</base64>
+
+</item>
+
+<item>
+
+<id>118</id>
+<cat>IPTV</cat>
+
+<name>TiviMate FS</name>
+
+<source>http://siriuswiz.xyz/apks/tivimate1.5.1%20FS.apk</source>
+
+<imge>https://data.apksum.com/e4/ar.tvplayer.tv/1.3.6/icon.png</imge>
+
+<desc>Latest TiviMate for FireSticks</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>TGF0ZXN0IFRpdmlNYXRlIGZvciBGaXJlU3RpY2tz</base64>
+
+</item>
 
 </items>
