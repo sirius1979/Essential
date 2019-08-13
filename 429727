@@ -211,9 +211,31 @@
 
 </item>
 
+
 <item>
 
 <id>111</id>
+<cat>Players</cat>
+
+<name>VLC</name>
+
+<source>http://siriuswiz.xyz/apks/VLC-Android-3.2.0-beta-1-armeabi-v7a.apk</source>
+
+<imge>https://tse3.mm.bing.net/th?id=OIP.w12TxrkpQzD9CRGZqr1kVAHaDd&pid=Api&P=0&w=392&h=184</imge>
+
+<desc>Universal Player</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>QSBzaW1wbGUsIGZhc3QgYW5kIGVmZmVjdGl2ZSB2aWRlbyBwbGF5ZXIgd2hpY2ggeW91IGNhbiBwbGF5IGFueSB2aWRlbyBmb3JtYXQu</base64>
+
+</item>
+
+<item>
+
+<id>112</id>
 <cat>Players</cat>
 
 <name>Wuffy Player</name>
@@ -234,7 +256,7 @@
 
 <item>
 
-<id>112</id>
+<id>113</id>
 <cat>VPN</cat>
 
 <name>Instant E-Mail</name>
@@ -255,7 +277,7 @@
 
 <item>
 
-<id>113</id>
+<id>114</id>
 <cat>Kodi</cat>
 
 <name>Kodi 18.3 ARM64</name>
@@ -276,7 +298,7 @@
 
 <item>
 
-<id>114</id>
+<id>115</id>
 <cat>Kodi</cat>
 
 <name>Kodi 18.3 ARMEABI</name>
@@ -297,7 +319,7 @@
 
 <item>
 
-<id>115</id>
+<id>116</id>
 <cat>Kodi</cat>
 
 <name>Limitless Plug-in</name>
@@ -318,7 +340,7 @@
 
 <item>
 
-<id>116</id>
+<id>117</id>
 <cat>IPTV</cat>
 
 <name>LimitLess XCIPTV</name>
@@ -339,7 +361,7 @@
 
 <item>
 
-<id>117</id>
+<id>118</id>
 <cat>IPTV</cat>
 
 <name>TiviMate</name>
@@ -360,7 +382,7 @@
 
 <item>
 
-<id>118</id>
+<id>119</id>
 <cat>IPTV</cat>
 
 <name>TiviMate FS</name>
