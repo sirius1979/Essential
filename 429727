@@ -610,4 +610,46 @@
 
 </item>
 
+<item>
+
+<id>129</id>
+<cat>VPV</cat>
+
+<name>SmartyDNS</name>
+
+<source>http://siriuswiz.xyz/apks/Smartydns.apk</source>
+
+<imge>https://www.megaleecher.net/sites/default/files/images/smartydns.png</imge>
+
+<desc>Virtul Private Network</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
+
+</item>
+
+<item>
+
+<id>130</id>
+<cat>VPV</cat>
+
+<name>VPN Unlimited</name>
+
+<source>http://siriuswiz.xyz/apks/vpn unlimited.apk</source>
+
+<imge>https://stateoftech.net/wp-content/uploads/2014/04/VPN-Unlimited.jpg</imge>
+
+<desc>Virtul Private Network</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
+
+</item>
+
 </items>
