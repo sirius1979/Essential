@@ -589,4 +589,67 @@
 
 </item>
 
+<item>
+
+<id>128</id>
+<cat>VPV</cat>
+
+<name>CyberGhost</name>
+
+<source>http://siriuswiz.xyz/apks/CyberGhost.apk</source>
+
+<imge>https://oyster.ignimgs.com/wordpress/stg.ign.com/2018/05/cyberghost.jpg</imge>
+
+<desc>Virtul Private Network</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
+
+</item>
+
+<item>
+
+<id>129</id>
+<cat>VPV</cat>
+
+<name>SmartyDNS</name>
+
+<source>http://siriuswiz.xyz/apks/Smartydns.apk</source>
+
+<imge>http://www.megaleecher.net/sites/default/files/images/smartydns.png</imge>
+
+<desc>Virtul Private Network</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
+
+</item>
+
+<item>
+
+<id>130</id>
+<cat>VPV</cat>
+
+<name>VPN Unlimited</name>
+
+<source>http://siriuswiz.xyz/apks/vpn unlimited.apk</source>
+
+<imge>https://tse4.mm.bing.net/th?id=OIP.TZemzzkivv-z5Sh7UhCrIAHaD2&pid=Api&P=0&w=347&h=181</imge>
+
+<desc>Virtul Private Network</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
+
+</item>
+
 </items>
