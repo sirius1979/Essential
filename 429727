@@ -155,7 +155,7 @@
 
 <name>SD Maid Pro</name>
 
-<source>https://github.com/sirius1979/Essential/raw/master/apks/Sd Maid Pro</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/Sd%20Maid%20Pro.apk</source>
 
 <imge>https://img.apksum.com/62/eu.thedarken.sdm/4.14.31/icon.png</imge>
 
@@ -176,7 +176,7 @@
 
 <name>Speed Test</name>
 
-<source>http://siriuswiz.xyz/apks/SpeedTest.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/SpeedTest.apk</source>
 
 <imge>https://data.apksum.com/5a/com.uusense.speed/2.5.5/icon.png</imge>
 
@@ -197,7 +197,7 @@
 
 <name>TPlayer</name>
 
-<source>http://siriuswiz.xyz/apks/TplayerAF.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/TplayerAF.apk</source>
 
 <imge>https://data.apksum.com/d1/teavideo.tvplayer.videoallformat/2.4b/icon.png</imge>
 
@@ -218,7 +218,7 @@
 
 <name>Wuffy Player</name>
 
-<source>http://siriuswiz.xyz/apks/Wuff%20player.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/wuffy.apk</source> ?
 
 <imge>https://img.apksum.com/bf/co.wuffy.player/3.5.5/icon.png</imge>
 
@@ -239,7 +239,7 @@
 
 <name>Instant E-Mail</name>
 
-<source>http://siriuswiz.xyz/apks/instantEmail.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/instantEmail.apk</source>
 
 <imge>https://data.apksum.com/27/air.kukulive.mailnow/2019.01.28.1/icon.png</imge>
 
@@ -260,7 +260,7 @@
 
 <name>Kodi 18.3 ARM64</name>
 
-<source>http://modgodmal.xyz/Streamers/kodi-18.3-Leia-arm64-v8a.apk</source>
+<source>http://modgodmal.xyz/Streamers/kodi-18.3-Leia-arm64-v8a.apk</source> ?
 
 <imge>https://data.apksum.com/e1/org.xbmc.kodi/18.3/icon.png</imge>
 
@@ -281,7 +281,7 @@
 
 <name>Kodi 18.3 ARMEABI</name>
 
-<source>http://modgodmal.xyz/Streamers/kodi-18.3-Leia-armeabi-v7a.apk</source>
+<source>http://modgodmal.xyz/Streamers/kodi-18.3-Leia-armeabi-v7a.apk</source> ?
 
 <imge>https://data.apksum.com/e1/org.xbmc.kodi/18.3/icon.png</imge>
 
@@ -302,7 +302,7 @@
 
 <name>Limitless Plug-in</name>
 
-<source>http://siriuswiz.xyz/apks/plugin.video.Limitless-1.00.005.zip</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/plugin.video.Limitless-1.00.005.zip</source>
 
 <imge>https://forum.iptvinsider.com/uploads/default/original/1X/5bdfd1d3c2b594110666d4336047d0726813990f.jpeg</imge>
 
@@ -323,7 +323,7 @@
 
 <name>LimitLess XCIPTV</name>
 
-<source>http://siriuswiz.xyz/apks/Limitless%20Xciptv.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/LimitlessX</source> ?
 
 <imge>https://forum.iptvinsider.com/uploads/default/original/1X/5bdfd1d3c2b594110666d4336047d0726813990f.jpeg</imge>
 
@@ -365,7 +365,7 @@
 
 <name>TiviMate FS</name>
 
-<source>http://siriuswiz.xyz/apks/tivimate1.5.1%20FS.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/tivimate1.5.1%20FS.apk</source>
 
 <imge>https://data.apksum.com/e4/ar.tvplayer.tv/1.3.6/icon.png</imge>
 
@@ -386,7 +386,7 @@
 
 <name>VLC</name>
 
-<source>http://siriuswiz.xyz/apks/VLC-Android-3.2.0-beta-1-armeabi-v7a.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/VLC-Android-3.2.0-beta-1-armeabi-v7a.apk/</source>
 
 <imge>https://data.apksum.com/71/com.hobbyistsoftware.android.vlcrstreamer_free/2.42/icon.png</imge>
 
@@ -407,28 +407,7 @@
 
 <name>Limitless DM Pro.apk</name>
 
-<source>http://siriuswiz.xyz/apks/Limitless DM Pro.apk</source>
-
-<imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
-
-<desc>limitless DM Pro Hardcoded</desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>bGltaXRsZXNzIERNIFBybyBIYXJkY29kZWQ=</base64>
-
-</item>
-
-<item>
-
-<id>120</id>
-<cat>IPTV</cat>
-
-<name>Limitless DM Pro.apk</name>
-
-<source>http://siriuswiz.xyz/apks/Limitless DM Pro.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/Limitless%20DM%20Pro.apk</source>
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -449,7 +428,7 @@
 
 <name>limitless MagGold</name>
 
-<source>http://siriuswiz.xyz/apks/limitless MagGold.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/magGold</source> ?
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -470,7 +449,7 @@
 
 <name>limitless OTTplay</name>
 
-<source>http://siriuswiz.xyz/apks/limitless OTTplay.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/Limitless%20OTTplay.apk</source>
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -491,7 +470,8 @@
 
 <name>limitless pp</name>
 
-<source>http://siriuswiz.xyz/apks/limitless pp.apk</source>
+<source>
+https://github.com/sirius1979/Essential/raw/master/apks/Limitless%20pp.apk</source>
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -512,7 +492,7 @@
 
 <name>limitless Purple</name>
 
-<source>http://siriuswiz.xyz/apks/limitless Purple.apk</source>
+<source>http://siriuswiz.xyz/apks/purple.apk</source> ?
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -533,7 +513,7 @@
 
 <name>limitless Solid</name>
 
-<source>http://siriuswiz.xyz/apks/limitless Solid.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/Limitless%20Solid.apk</source>
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -575,7 +555,7 @@
 
 <name>limitless X</name>
 
-<source>http://siriuswiz.xyz/apks/limitlessX.apk</source>
+<source>http://siriuswiz.xyz/apks/limitlessX.apk</source> ?
 
 <imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
 
@@ -596,7 +576,7 @@
 
 <name>CyberGhost</name>
 
-<source>http://modgodmal.xyz/Other/CyberGhost.apk</source>
+<source>http://modgodmal.xyz/Other/CyberGhost.apk</source> ?
 
 <imge>https://topvpnservice.com/wp-content/uploads/2018/09/cyberghost-ogp.png</imge>
 
@@ -617,7 +597,7 @@
 
 <name>SmartyDNS</name>
 
-<source>http://siriuswiz.xyz/apks/Smartydns.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/Smartydns.apk</source>
 
 <imge>https://www.megaleecher.net/sites/default/files/images/smartydns.png</imge>
 
@@ -638,7 +618,7 @@
 
 <name>VPN Unlimited</name>
 
-<source>http://siriuswiz.xyz/apks/vpn unlimited.apk</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/vpn%20unlimited.apk</source>
 
 <imge>https://stateoftech.net/wp-content/uploads/2014/04/VPN-Unlimited.jpg</imge>
 
@@ -659,7 +639,7 @@
 
 <name>Filelinked</name>
 
-<source>http://siriuswiz.xyz/apks/FileLinkedBeta.apk/</source>
+<source>https://github.com/sirius1979/Essential/raw/master/apks/FileLinkedBeta.apk</source>
 
 <imge>https://cdn.browsercam.com/headers/com.josjos.linkedlinked-header.png</imge>
 
