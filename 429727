@@ -675,24 +675,6 @@
 
 <item>
 
-<id>133</id>
-<cat>VPN</cat>
-
-<name>SurfShark</name>
-
-<source>https://github.com/sirius1979/apk-for-github/raw/master/Surfshark.apk</source>
-
-<imge>https://images.idgesg.net/images/article/2019/01/surfsharklogo-100785641-large.jpg</imge>
-
-<desc>Virtul Private Network</desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>VmlydHVsIFByaXZhdGUgTmV0d29yaw==</base64>
-
-</item>
 
 
 </items>
