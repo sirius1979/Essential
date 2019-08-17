@@ -673,4 +673,25 @@
 
 </item>
 
+<item>
+
+<id>133</id>
+<cat>VPN</cat>
+
+<name>CyberGhost</name>
+
+<source>https://github.com/sirius1979/apk-for-github/raw/master/CyberGhost.apk</source>
+
+<imge>https://topvpnservice.com/wp-content/uploads/2018/09/cyberghost-ogp.png</imge>
+
+<desc>VPN - For Security</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>VlBOIC0gRm9yIFNlY3VyaXR5</base64>
+
+</item>
+
 </items>
