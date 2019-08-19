@@ -673,4 +673,23 @@
 
 </item>
 
+<id>133</id>
+<cat>CALENDAR</cat>
+
+<name>Calendar</name>
+
+<source>https://raw.githubusercontent.com/sirius1979/apk-for-github/master/Calendar</source>
+
+<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
+
+<desc>Calendar</desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64>Q2FsZW5kYXI=</base64>
+
+</item>
+
 </items>
