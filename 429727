@@ -699,6 +699,28 @@
 <id>134</id>
 <cat>Calendar</cat>
 
+<name>Calendar Dailys</name>
+
+<source></source>
+
+<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
+
+<desc>Click here</desc>
+
+<vers>9727</vers>
+
+<vidz></vidz>
+
+<base64>aHR0cDovL2xpbWl0bGVzc3R2Lnh5ei9DYWxlbmRhci9EYWlseS1DYWxlbmRhci5odG1sCg==</base64>
+
+</item>
+
+
+<item>
+
+<id>135</id>http://limitlesstv.xyz/Calendar/Daily-Calendar.html
+<cat>Calendar</cat>
+
 <name>Calendar usa</name>
 
 <source></source>
@@ -717,7 +739,7 @@
 
 <item>
 
-<id>135</id>
+<id>136</id>
 <cat>Calendar</cat>
 
 <name>Premier League</name>
