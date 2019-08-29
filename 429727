@@ -744,147 +744,21 @@ ClICK HERE NOT DOWNLIAD BUTTON</name>
 <item>
 
 <id>140</id>
-<cat>Test</cat>
+<cat>Premiership Fixtures</cat>
 
-<name>Moday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Monday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>141</id>
-<cat>Test</cat>
-
-<name>Tuesday</name>
+<name>Premiership Games</name>
 
 <source></source>
 
 <imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
 
-<desc>Tuesday Fixtures</desc>
+<desc>Fixtures</desc>
 
 <vers>5370</vers>
 
 <vidz></vidz>
 
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>142</id>
-<cat>Test</cat>
-
-<name>Wednesday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Wednesday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>143</id>
-<cat>Test</cat>
-
-<name>Thursday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Thursday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64>aHR0cDovL3Npcml1c3dpei54eXovQ2FsZW5kYXIvRnJpZGF5Lmh0bWw=</base64>
-
-</item>
-
-<item>
-
-<id>144</id>
-<cat>Test</cat>
-
-<name>Friday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Friday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64>aHR0cDovL3Npcml1c3dpei54eXovQ2FsZW5kYXIvRnJpZGF5Lmh0bWw=</base64>
-
-</item>
-
-<item>
-
-<id>145</id>
-<cat>Test</cat>
-
-<name>Saturday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Saturday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>146</id>
-<cat>Test</cat>
-
-<name>Sunday</name>
-
-<source></source>
-
-<imge>https://s3.amazonaws.com/busites_www/witzamfm/pages/meta/live_sports_schedule_1527775037.png</imge>
-
-<desc>Sunday Fixtures</desc>
-
-<vers>5370</vers>
-
-<vidz></vidz>
-
-<base64>aHR0cDovL3Npcml1c3dpei54eXovQ2FsZW5kYXIvU3VuZGF5Lmh0bWw=</base64>
+<base64>aHR0cDovL3Npcml1c3dpei54eXovQ2FsZW5kYXIvUHJlbWllcnNoaXAuaHRtbA==</base64>
 
 </item>
 
